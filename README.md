@@ -1,8 +1,8 @@
 # MaskMusk
 
-Once upon a time at the dusk
-I had a dream of TheVerge where there is no Musk 
-Of Techcrunch where there is no NFT
+Once upon a time at the dusk  
+I had a dream of TheVerge where there is no Musk  
+Of Techcrunch where there is no NFT  
 and BBC where there is no Trump and no Biden to see
 
 Welcome the new and shiny browser extension that hides elements from webpage based on user set keywords.
